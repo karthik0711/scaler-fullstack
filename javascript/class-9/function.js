@@ -13,6 +13,6 @@ serveBeveerage("juice",1)
 
 var sayHi = function(name){
     console.log('hi '+name)
-}
+} // Anonymous function
 
 sayHi("karthik")
